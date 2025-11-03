@@ -12,7 +12,7 @@ int main() {
     printf("%.2f\n", bmi(1.72, 80));
 
     //課題3
-    convert(2020);
+   //convert(2020);
     //convert(???)
 
     //課題4

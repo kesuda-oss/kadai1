@@ -1,6 +1,9 @@
 #include "kadai1.h"
 
 char grade(int score) {
-    // TODO: 実装
+    if (score > 80) {
+        return 'A';
+    } else {
     return 'F';
+    }
 }
